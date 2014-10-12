@@ -1,15 +1,20 @@
-.. BuildAPC documentation master file, created by
-   sphinx-quickstart on Sun Oct 12 12:12:53 2014.
-
 BuildAPC documentation/wiki
 ====================================
 
-Contents:
+Another Subheader
+
+Some text for more info
+
+	print "swaggeroni"
+	>> swaggeroni
+
+Guide
+^^^^^
 
 .. toctree::
    :maxdepth: 2
 
-
+   help
 
 Indices and tables
 ==================
