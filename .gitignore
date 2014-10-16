@@ -1,7 +1,6 @@
 *.pyc
 *.egg-info
 *.egg
-*build/
 .tox
 .coverage
 *.DS_Store
