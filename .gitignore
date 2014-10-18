@@ -4,7 +4,7 @@
 .tox
 .coverage
 *.DS_Store
-*.sass-cache
+*.sass-cache/
 .ruby-version
 dist/
 bower_components/
