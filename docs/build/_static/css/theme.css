@@ -4259,6 +4259,11 @@ footer p {
   margin-bottom: 12px;
 }
 
+.rst-footer-buildwith {
+  *zoom: 1;
+  font-size: 10px;
+}
+
 .rst-footer-buttons {
   *zoom: 1;
 }
