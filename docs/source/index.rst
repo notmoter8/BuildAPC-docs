@@ -35,4 +35,5 @@ Indices and tables
 
 * :ref:`search`
 * :ref:`help`
+* :ref:`mobo`
 
