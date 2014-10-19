@@ -1,12 +1,6 @@
 How to Modify this doc/wiki
 ===========================
 
-Moter8
-
-Github account blabla
-
-Many swag too
-
 Using readthemanual
 
 Contact

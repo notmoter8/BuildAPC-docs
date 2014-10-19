@@ -12,7 +12,7 @@
 
   <hr/>
 
-  <div role="contentinfo">
+  <!--<div role="contentinfo">
     <p>
     {%- if show_copyright %}
       {%- if hasdoc('copyright') %}
@@ -26,8 +26,10 @@
       {% trans last_updated=last_updated|e %}Last updated on {{ last_updated }}.{% endtrans %}
     {%- endif %}
     </p>
-  </div>
+  </div> -->
 
-  {% trans %}Built with <a href="http://sphinx-doc.org/">Sphinx</a> using a <a href="https://github.com/snide/sphinx_rtd_theme">theme</a> provided by <a href="https://readthedocs.org">Read the Docs</a>{% endtrans %}.
+    <div class="rst-footer-sitemap">
+       {% trans %}<a href="/contact.html">Contact us</a>   <a href="/about.html">About</a>   <a href="/client/">IRC Channel</a>   <a href="/crypt/">Pastebin</a>   <a href="/privacy.html">Privacy</a>   <a href="https://github.com/Moter8/buildapc-docs">Source</a>{% endtrans %}.
+    </div>
   
 </footer>
