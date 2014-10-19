@@ -26,8 +26,9 @@ Build a PC Wiki
 .. 
 .. toctree::
    :maxdepth: 2
-..
+   
    help
+   mobo
 
 Indices and tables
 ==================
