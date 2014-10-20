@@ -9,7 +9,7 @@ Done!
 
 -
 
-##Embedding a html5/native/self-hosted video:
+##Embedding a html5/native/self-hosted video: 
 
 In the reStructuredText file, we edit in our `<video></video>` tag after declaring html code with `.. raw:: html`
 
