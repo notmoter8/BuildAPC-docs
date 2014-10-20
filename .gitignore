@@ -1,14 +1,1 @@
-*.pyc
-*.egg-info
-*.egg
-.tox
-.coverage
-*.DS_Store
-*.sass-cache/
-.ruby-version
-dist/
-bower_components/
-node_modules/
-npm-debug.log
-analytics/
-crypt/
+*.directory
