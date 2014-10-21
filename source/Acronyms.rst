@@ -46,7 +46,15 @@ HDD: Hard Disk Drive
 
 HDR: High Dynamic-Range
 
+Hz: Hertz, display refresh rate 
+
 HT: Intel Hyper Threading
+
+IPS: In-Plane Switching
+
+LCD: Liquid-Crystal Display
+
+MFAA: Multi-Frame Anti-Aliasing
 
 MSAA: Multi-Sampling Anti-Aliasing
 
@@ -61,6 +69,8 @@ OS: Operating System
 PCB: Printed Circuit Board
 
 PCI-e: Expansion slots
+
+PLS: Super PLS
 
 PSU: Power Supply Unit
 
@@ -78,7 +88,9 @@ SLI: Scalable Link Interface (NVIDIA's version of Crossfire)
 
 SMART: Self-Monitoring Analysis and Reporting Technology
 
-SSAO: Screen SPace Ambient Occlusion
+SSAO: Screen Space Ambient Occlusion
+
+SSAA: Super-Sampling Anti-Aliasing
 
 SSD: Solid State Drive
 
