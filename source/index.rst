@@ -29,6 +29,7 @@ Build a PC Wiki
    
    help
    mobo
+   Acronyms
 
 Indices and tables
 ==================
@@ -36,4 +37,5 @@ Indices and tables
 * :ref:`search`
 * :ref:`help`
 * :ref:`mobo`
+* :ref:`Acronyms`
 
