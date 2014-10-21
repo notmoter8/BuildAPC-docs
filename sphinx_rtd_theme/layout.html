@@ -167,21 +167,21 @@
 
   </script>
 
+  <!-- Piwik -->
   <script type="text/javascript">
   var _paq = _paq || [];
-  _paq.push(["setDocumentTitle", document.domain + "/" + document.title]);
   _paq.push(['trackPageView']);
   _paq.push(['enableLinkTracking']);
   (function() {
-    var u="//moter8.pw/analytics/piwik/";
+    var u="//moter8.pw/piwik/";
     _paq.push(['setTrackerUrl', u+'piwik.php']);
     _paq.push(['setSiteId', 1]);
     var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
     g.type='text/javascript'; g.async=true; g.defer=true; g.src=u+'piwik.js'; s.parentNode.insertBefore(g,s);
   })();
-  </script>
-  <noscript><p><img src="//moter8.pw/analytics/piwik/piwik.php?idsite=1" style="border:0;" alt="" /></p></noscript>
-
+</script>
+<noscript><p><img src="//moter8.pw/piwik/piwik.php?idsite=1" style="border:0;" alt="" /></p></noscript>
+<!-- End Piwik Code -->
   {% endif %}
 
   {%- block footer %} {% endblock %}
