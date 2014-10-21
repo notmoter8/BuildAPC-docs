@@ -18,7 +18,7 @@ BSOD: BlueScreen of Death
 
 CF: Crossfire (AMD's version of SLI)
 
-CMOS: saves bios dude
+CMOS: BIOS memory
 
 CPU: Central Processing Unit or Processor
 
@@ -34,7 +34,7 @@ DP: DisplayPort
 
 DPI: Dots Per Inch
 
-DVI: Digital Video Interface, usually better than HDMI
+DVI: Digital Video Interface
 
 FPS: Frames per Second
 
@@ -43,6 +43,8 @@ GDDR: Graphics Double Data Rate
 GHz: Gigahertz
 
 HDD: Hard Disk Drive
+
+HDMI: High-Definition Multimedia Interface
 
 HDR: High Dynamic-Range
 
@@ -65,6 +67,8 @@ OC: Overclock
 OEM: Original Equipment Manufacturer
 
 OS: Operating System
+
+OSD: On-Screen Display
 
 PCB: Printed Circuit Board
 
@@ -95,6 +99,8 @@ SSAA: Super-Sampling Anti-Aliasing
 SSD: Solid State Drive
 
 TDP: Thermal Design Power
+
+UEFI: Unified Extensible Firmware Interface
 
 VCORE: CPU Core Voltage
 
