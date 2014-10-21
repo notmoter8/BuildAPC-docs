@@ -7,7 +7,9 @@ Would probably be more newb friendly.
 
 
 AA: Anti-Aliasing  
+
 AF: Anisotropic Filtering  
+
 ATX: The 2nd largest Form Factor  
 
 BIOS: Basic Input Output System
