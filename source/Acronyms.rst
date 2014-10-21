@@ -72,7 +72,7 @@ OSD: On-Screen Display
 
 PCB: Printed Circuit Board
 
-PCI-e: Expansion slots
+PCI-e: Expansion slots for GPUs or other devices
 
 PLS: Super PLS
 
